@@ -27,6 +27,11 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na 
 
 * **LinkedIn:** [https://www.linkedin.com/in/DenisGabriel017](https://www.linkedin.com/in/DenisGabriel017)
 * **E-mail:** denisgabriel.dev@gmail.com
+<div align="center">
+  <a href="https://github.com/DenisGabriel017/DenisGabriel017/raw/main/Denis-curriculo.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Currículo-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Download Currículo">
+  </a>
+</div>
 
 ---
 
