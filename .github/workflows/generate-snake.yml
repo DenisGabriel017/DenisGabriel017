@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # A cada 24 horas à meia-noite (UTC)
+    - cron: "0 0 * * *"
+  
+  # Permite a execução manual através da aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: denisgabriel017 # <--- SEU NOME DE USUÁRIO
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
