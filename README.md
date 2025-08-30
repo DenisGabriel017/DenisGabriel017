@@ -1,4 +1,5 @@
 # Olá, sou o Denis Gabriel 👋
+![Profile views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square)
 
 Sou um profissional com formação em Análise e Desenvolvimento de Sistemas, apaixonado por construir soluções robustas e eficientes. Meu foco atual é no ecossistema **Java**, me aprofundando em **Spring Boot** para desenvolver APIs que realmente fazem a diferença.
 
