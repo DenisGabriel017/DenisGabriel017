@@ -1,22 +1,43 @@
-### Olá! eu sou o Denis Gabriel 👋
+# Olá, sou o Denis Gabriel 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisgabriel017/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denisgabriel.dev?igsh=MTVpNjRxeXNiNnk0NQ==)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenisGabriel017)
+Sou um profissional com formação em Análise e Desenvolvimento de Sistemas, apaixonado por construir soluções robustas e eficientes. Meu foco atual é no ecossistema **Java**, me aprofundando em **Spring Boot** para desenvolver APIs que realmente fazem a diferença.
 
-![DenisGabriel017 GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisGabriel017&hide=contribs,prs)
+Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na carreira de desenvolvedor.
 
-### Tecnologias que eu no meu dia
+---
 
-<div>
-    <img alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
-    <img alt="Html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-    <img alt="Html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
-    <img alt="Html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-    <img alt="Html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
-    <img alt="Html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" >
-</div><br/>
+### Meu Arsenal Técnico
 
-### Email para contato
-    denisgabriel.dev@outlook.com
+* **Linguagens:** Java
+* **Frameworks:** Spring Boot, Spring Security
+* **Bancos de Dados:** MySQL, MongoDB, PostgreSQL
+* **Ferramentas:** Git, Postman, Scrum, Kanban
 
+---
+
+### Projetos em Andamento
+
+* [**API de Gerenciamento de Tarefas**](Link_Para_o_Repositorio): Uma API RESTful para gestão completa de tarefas, incluindo autenticação com JWT e persistência em MySQL.
+* [**Backend de Blog ou Fórum**](Link_Para_o_Repositorio): O backend para uma plataforma de conteúdo, permitindo o gerenciamento de posts, comentários e perfis de usuário, com recursos avançados de segurança.
+* [**API de E-commerce Simples**](Link_Para_o_Repositorio): Uma API backend para um e-commerce simplificado, gerenciando produtos, estoque, carrinhos de compra e a lógica de processamento de pedidos.
+
+---
+
+### Conecte-se comigo!
+
+* **LinkedIn:** [https://www.linkedin.com/in/DenisGabriel017](https://www.linkedin.com/in/DenisGabriel017)
+* **E-mail:** denisgabriel.dev@gmail.com
+
+---
+
+### Minha Atividade no GitHub
+
+<img src="https://media1.tenor.com/m/V-6ZF3wyefwAAAAC/charmander-pokemon.gif" width="250" alt="Charmander correndo">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DenisGabriel017&show_icons=true&theme=nord&hide_border=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGabriel017&theme=nord&hide_border=true)
+
+---
+
+![snake gif](https://github.com/DenisGabriel017/DenisGabriel017/blob/output/github-contribution-grid-snake.gif)
