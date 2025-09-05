@@ -18,9 +18,7 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na 
 
 ### Projetos em Andamento
 
-* [**API de Gerenciamento de Tarefas**](Link_Para_o_Repositorio): Uma API RESTful para gestão completa de tarefas, incluindo autenticação com JWT e persistência em MySQL.
-* [**Backend de Blog ou Fórum**](Link_Para_o_Repositorio): O backend para uma plataforma de conteúdo, permitindo o gerenciamento de posts, comentários e perfis de usuário, com recursos avançados de segurança.
-* [**API de E-commerce Simples**](Link_Para_o_Repositorio): Uma API backend para um e-commerce simplificado, gerenciando produtos, estoque, carrinhos de compra e a lógica de processamento de pedidos.
+* [**Aplicação de Gerenciamento de Produção de uma padaria**](Link_Para_o_Repositorio): Uma API RESTful para gestão completa de tarefas, incluindo autenticação com JWT e persistência em PostGresql.
 
 ---
 
