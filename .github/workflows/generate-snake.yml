@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@master
         with:
-          github_user_name: denisgabriel017 # <--- SEU NOME DE USUÁRIO
+          github_user_name: DenisGabriel017 # <--- SEU NOME DE USUÁRIO
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
