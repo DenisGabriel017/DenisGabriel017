@@ -44,4 +44,4 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na 
 
 ---
 
-![snake animation](https://github.com/<DenisGabriel017>/<DenisGabriel017>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/DenisGabriel017/DenisGabriel017/blob/output/github-contribution-grid-snake.gif)
