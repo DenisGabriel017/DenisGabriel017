@@ -11,15 +11,28 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10 # Adiciona um timeout para evitar que a ação rode indefinidamente
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3 # Usando a versão v3
+        uses: actions/checkout@v3
 
       - name: Generate snake
-        uses: Platane/snk@v3 # Usando a versão v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: DenisGabriel017 # SEU NOME DE USUÁRIO
+          github_user_name: DenisGabriel017
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-          frames: 400 # Aumentado para 400 frames
+          frames: 400
+
+      # Adiciona este passo para commitar os arquivos gerados de volta ao repositório
+      - name: Push snake image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.gif
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generate snake contribution grid" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
