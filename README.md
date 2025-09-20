@@ -18,7 +18,7 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na 
 
 ### Projetos em Andamento
 
-* [**Aplicação de Gerenciamento de Produção de uma padaria**](Link_Para_o_Repositorio): Uma API RESTful para gestão completa de tarefas, incluindo autenticação com JWT e persistência em PostGresql.
+* [**Aplicação de Gerenciamento de Produção de uma padaria**](https://github.com/DenisGabriel017/gestao-producao): Uma API RESTful para gestão completa de tarefas, incluindo autenticação com JWT e persistência em PostGresql.
 
 ---
 
