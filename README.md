@@ -9,9 +9,9 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na 
 
 ### Meu Arsenal Técnico
 
-* **Linguagens:** Java
+* **Linguagens:** Java, GO, Pyhton
 * **Frameworks:** Spring Boot, Spring Security
-* **Bancos de Dados:** MySQL, MongoDB, PostgreSQL
+* **Bancos de Dados:** MySQL, MongoDB, PostgreSQL, MariaDB
 * **Ferramentas:** Git, Postman, Scrum, Kanban
 
 ---
@@ -38,10 +38,6 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na 
 
 <img src="https://media1.tenor.com/m/V-6ZF3wyefwAAAAC/charmander-pokemon.gif" width="250" alt="Charmander correndo">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DenisGabriel017&show_icons=true&theme=nord&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGabriel017&theme=nord&hide_border=true)
 
 ---
 
-![snake animation](https://github.com/your-username/DenisGabriel017/blob/output/github-contribution-grid-snake.svg)
