@@ -1,43 +1,37 @@
-# Olá, sou o Denis Gabriel 👋
-![Profile views](https://komarev.com/ghpvc/?username=DenisGabriel017&style=flat-square)
+# Olá, sou Denis Gabriel 👋
 
-Sou um profissional com formação em Análise e Desenvolvimento de Sistemas, apaixonado por construir soluções robustas e eficientes. Meu foco atual é no ecossistema **Java**, me aprofundando em **Spring Boot** para desenvolver APIs que realmente fazem a diferença.
+Desenvolvedor Full Stack com foco em **backend Go**, APIs REST, integrações entre sistemas e automação de processos.
 
-Estou em busca de uma oportunidade para aplicar minhas habilidades e crescer na carreira de desenvolvedor.
+Atualmente trabalho com aplicações para o setor de telecomunicações e também desenvolvo uma intranet corporativa como freelancer. Minha experiência inclui serviços em Go, aplicações com Flutter, autenticação e controle de acesso, integração entre plataformas, processamento de dados e implantação com Docker.
 
----
+## Tecnologias
 
-### Meu Arsenal Técnico
+- **Backend:** Go, Java, Spring Boot e Python
+- **Mobile e frontend:** Flutter, Dart, JavaScript, HTML e CSS
+- **Bancos de dados:** PostgreSQL, MySQL e MongoDB
+- **Infraestrutura:** Docker, Linux, Nginx e CI/CD
+- **Práticas:** APIs REST, JWT, RBAC, microsserviços, multi-tenant e white-label
 
-* **Linguagens:** Java, GO, Pyhton
-* **Frameworks:** Spring Boot, Spring Security
-* **Bancos de Dados:** MySQL, MongoDB, PostgreSQL, MariaDB
-* **Ferramentas:** Git, Postman, Scrum, Kanban
+## Projetos públicos
 
----
+### [API de Controle Financeiro](https://github.com/DenisGabriel017/ControleFinanceiro-API)
 
-### Projetos em Andamento
+API REST desenvolvida com Java 21 e Spring Boot, com autenticação JWT, arquitetura multi-tenant, PostgreSQL, gestão de transações, categorias, orçamentos e endpoints para dashboard.
 
-* [**Aplicação de Gerenciamento de Produção de uma padaria**](https://github.com/DenisGabriel017/gestao-producao): Uma API RESTful para gestão completa de tarefas, incluindo autenticação com JWT e persistência em PostGresql.
+### [Gestão de Produção](https://github.com/DenisGabriel017/gestao-producao)
 
----
+Aplicação para apoiar rotinas de produção, cadastros, importação de dados e acompanhamento operacional.
 
-### Conecte-se comigo!
+### [Helpdesk](https://github.com/DenisGabriel017/Helpdesk)
 
-* **LinkedIn:** [https://www.linkedin.com/in/DenisGabriel017](https://www.linkedin.com/in/DenisGabriel017)
-* **E-mail:** denisgabriel.dev@gmail.com
-<div>
-  <a href="https://github.com/DenisGabriel017/DenisGabriel017/raw/main/Denis-curriculo.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Currículo-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Download Currículo">
-  </a>
-</div>
+API para gerenciamento de chamados com autenticação, controle de acesso por perfis e persistência em PostgreSQL.
 
----
+## Formação
 
-### Minha Atividade no GitHub
+- Pós-graduação em DevOps
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-<img src="https://media1.tenor.com/m/V-6ZF3wyefwAAAAC/charmander-pokemon.gif" width="250" alt="Charmander correndo">
+## Contato
 
-
----
-
+- [LinkedIn](https://www.linkedin.com/in/denisgabriel017/)
+- **E-mail:** denisgabriel.dev@gmail.com
