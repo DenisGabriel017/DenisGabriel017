@@ -35,3 +35,12 @@ API para gerenciamento de chamados com autenticação, controle de acesso por pe
 
 - [LinkedIn](https://www.linkedin.com/in/denisgabriel017/)
 - **E-mail:** denisgabriel.dev@gmail.com
+
+
+## Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenisGabriel017/DenisGabriel017/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenisGabriel017/DenisGabriel017/output/github-snake.svg" />
+  <img alt="Cobrinha das contribuições de Denis Gabriel" src="https://raw.githubusercontent.com/DenisGabriel017/DenisGabriel017/output/github-snake.svg" />
+</picture>
